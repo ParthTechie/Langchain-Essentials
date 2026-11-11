@@ -1,4 +1,4 @@
-# LangChain v1 essentials
+# LangChain Essentials
 
 My finished notebooks from the [LangChain Essentials (Python)](https://academy.langchain.com/courses/langchain-essentials-python) course on LangChain Academy.
 
@@ -32,8 +32,8 @@ The notebooks use OpenAI models (`gpt-5`, `gpt-5-mini` and `gpt-5-nano`).
 You'll need Python 3.11 to 3.13, [uv](https://docs.astral.sh/uv/), and an OpenAI API key. A LangSmith key is optional (it turns on tracing).
 
 ```bash
-git clone https://github.com/ParthTechie/langchain-v1-essentials.git
-cd langchain-v1-essentials/python
+git clone https://github.com/ParthTechie/Langchain-Essentials.git
+cd Langchain-Essentials/python
 cp example.env .env      # then paste your OPENAI_API_KEY into .env
 uv sync
 uv run jupyter lab

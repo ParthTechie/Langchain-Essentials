@@ -25,8 +25,8 @@ Download the course repository
 
 ```bash
 # Clone the repo, cd to 'python' directory
-git clone https://github.com/ParthTechie/langchain-v1-essentials.git
-cd ./langchain-v1-essentials/python
+git clone https://github.com/ParthTechie/Langchain-Essentials.git
+cd ./Langchain-Essentials/python
 ```
 
 Make a copy of example.env
