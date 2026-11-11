@@ -193,3 +193,5 @@ Thumbs.db
 .vscode/
 
 **/.langgraph_api/
+# Course slide PDFs (LangChain Academy material, not redistributed here)
+*.pdf
